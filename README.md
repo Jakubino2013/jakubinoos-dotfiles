@@ -33,7 +33,7 @@
   ```
   <p>2. install following packages with your AUR helper:</p>
 
-  ```bash
+  ```fish
   paru -S hyprland hyprpaper rofi waybar swaync 
   ```
 </div>
