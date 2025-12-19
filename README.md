@@ -19,7 +19,7 @@
   <h2>Default programs:<h2/>
     <p>Browser: Firefox</p>
     <p>Terminal: kitty</p>
-    <p>File manager: Dolfin</p>
+    <p>File manager: Dolphin</p>
     <p>Menus: Rofi</p>
     <p>Taskbar: Waybar</p>
 </div>
