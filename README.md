@@ -26,10 +26,11 @@
 
 <div>
   <h2>Install</h2>
-  <p> 1. clone this repo:</p>
+  <p> 1. clone this repo and get to dotfiles:</p>
   
   ```fish
   git clone https://github.com/Jakubino2013/jakubinoos-dotfiles
+  cd jakubinoos-dotfiles
   ```
   <p>2. install following packages with your AUR helper (this is required for function of dotfiles):</p>
 
@@ -41,6 +42,17 @@
   ```fish
   paru -S hyprsettings nwg-look
   ```
+  <p>3. Copy config files:</p>
+
+  ```fish
+  cd config
+  sudo cp -r hypr/ ~/.config
+  sudo cp -r waybar/ ~/.config
+  sudo cp -r rofi/ ~/.config
+  sudo cp -r swaync ~/.config
+  ```
+
+
 </div>
   
 
