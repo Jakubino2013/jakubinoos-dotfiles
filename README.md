@@ -34,7 +34,7 @@
   <p>2. install following packages with your AUR helper:</p>
 
   ```bash
-  paru -S hyprland hyprpaper rofi 
+  paru -S hyprland hyprpaper rofi waybar swaync 
   ```
 </div>
   
