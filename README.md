@@ -10,7 +10,7 @@
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175350_hyprshot.png" />
   <h3>Powermenu</h3>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175416_hyprshot.png" />
-  <p>Logout doesn`t work</p>
+  <p>Logout doesn`t work, but zou can customize it</p>
   <h2>SwayNC</h2>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175307_hyprshot.png" />
 </div>
@@ -28,7 +28,7 @@
   <h2>Install</h2>
   <p> 1. clone this repo:</p>
   
-  ```bash
+  ```fish
   git clone https://github.com/Jakubino2013/jakubinoos-dotfiles
   ```
   <p>2. install following packages with your AUR helper:</p>
