@@ -10,6 +10,8 @@
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175350_hyprshot.png" />
   <h3>Powermenu</h3>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175416_hyprshot.png" />
+  > [!NOTE]
+  > Logout doesnt work
   <h2>SwayNC</h2>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175307_hyprshot.png" />
 
