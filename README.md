@@ -36,7 +36,7 @@
   ```fish
   paru -S hyprland hyprpaper rofi waybar swaync 
   ```
-  <p>Opontial packages:</p>
+  <p>Optional packages:</p>
 
   ```fish
   paru -S hyprsettings nwg-look
