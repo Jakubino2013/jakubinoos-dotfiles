@@ -9,5 +9,6 @@
   <h3>Menu</h3>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175350_hyprshot.png" />
   <h3>Powermenu</h3>
+  <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175416_hyprshot.png" />
 
     
