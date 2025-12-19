@@ -26,7 +26,7 @@
 
 <div>
   <h2>Install</h2>
-  <p> 1. clone this repo and get to dotfiles:</p>
+  <p> 1. clone this repo and get to dotfiles directory:</p>
   
   ```fish
   git clone https://github.com/Jakubino2013/jakubinoos-dotfiles
