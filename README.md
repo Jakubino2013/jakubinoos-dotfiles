@@ -15,7 +15,7 @@
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175307_hyprshot.png" />
 </div>
 
-<div align="right">
+<div>
   <h2>Default programs:<h2/>
     <p>Browser: Firefox</p>
     <p>Terminal: kitty</p>
