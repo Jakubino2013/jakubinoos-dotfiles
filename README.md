@@ -31,6 +31,11 @@
   ```bash
   git clone https://github.com/Jakubino2013/jakubinoos-dotfiles
   ```
+  <p>2. install following packages with your AUR helper:</p>
+
+  ```bash
+  paru -S hyprland hyprpaper rofi 
+  ```
 </div>
   
 
