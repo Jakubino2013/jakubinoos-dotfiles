@@ -31,7 +31,7 @@
   ```fish
   git clone https://github.com/Jakubino2013/jakubinoos-dotfiles
   ```
-  <p>2. install following packages with your AUR helper (this is required for function):</p>
+  <p>2. install following packages with your AUR helper (this is required for function of dotfiles):</p>
 
   ```fish
   paru -S hyprland hyprpaper rofi waybar swaync 
