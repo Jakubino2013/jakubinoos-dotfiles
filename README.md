@@ -27,6 +27,7 @@
 <div>
   <h2>Install</h2>
   <p> 1. clone this repo:</p>
+  
   ```bash
   git clone https://github.com/Jakubino2013/jakubinoos-dotfiles
   ```
