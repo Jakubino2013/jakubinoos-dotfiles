@@ -13,5 +13,16 @@
   <p>Logout doesn`t work</p>
   <h2>SwayNC</h2>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175307_hyprshot.png" />
+</div>
+
+<div align="right">
+  <h2>Default programs:<h2/>
+    <p>Browser: Firefox</p>
+    <p>Terminal: kitty</p>
+    <p>File manager: Dolfin</p>
+    <p>Menus: Rofi</p>
+    <p>Taskbar: Waybar</p>
+</div>
+  
 
     
