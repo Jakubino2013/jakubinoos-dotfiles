@@ -10,7 +10,7 @@
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175350_hyprshot.png" />
   <h3>Powermenu</h3>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175416_hyprshot.png" />
-  <p>Logout doesn`t work, but you can fix it, if you want</p>
+  <p>Logout doesn`t work, but you can fix it, if you want.</p>
   <h2>SwayNC</h2>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175307_hyprshot.png" />
 </div>
@@ -26,13 +26,13 @@
 
 <div>
   <h2>Install</h2>
-  <p> 1. clone this repo and get to the dotfiles directory:</p>
+  <p> 1. Clone this repo and get to the dotfiles directory:</p>
   
   ```fish
   git clone https://github.com/Jakubino2013/jakubinoos-dotfiles.git
   cd jakubinoos-dotfiles
   ```
-  <p>2. install following packages with your AUR helper (this is required for function of dotfiles):</p>
+  <p>2. Install following packages with your AUR helper (this is required for function of dotfiles):</p>
 
   ```fish
   paru -S hyprland hyprpaper rofi waybar swaync 
@@ -53,7 +53,7 @@
   ```
 
   <h3>Note</h3>
-  <p>You can customize the configs before copying</p>
+  <p>You can customize the configs before copying.</p>
 
   
 
