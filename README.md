@@ -56,7 +56,7 @@
   <p>You can customize the configs before copying.</p>
 
   <h3>2. Note</h3>
-  <p>If you copy rofi config from these dotfiles, it will be not working. Instead, go to this repo: https://github.com/adi1090x/rofi. There is an setup, how to install </p>
+  <p>If you copy rofi config from these dotfiles, the rofi will be not working. Instead, go to this repo: https://github.com/adi1090x/rofi. There is an setup, how to install these configs.</p>
 
   
 
