@@ -46,10 +46,10 @@
 
   ```fish
   cd config
-  sudo cp -r hypr/ ~/.config
-  sudo cp -r waybar/ ~/.config
-  sudo cp -r rofi/ ~/.config
-  sudo cp -r swaync/ ~/.config
+  sudo cp -r hypr ~/.config
+  sudo cp -r waybar ~/.config
+  sudo cp -r rofi ~/.config
+  sudo cp -r swaync ~/.config
   ```
 
 
