@@ -10,7 +10,7 @@
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175350_hyprshot.png" />
   <h3>Powermenu</h3>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175416_hyprshot.png" />
-  <p>Logout doesn`t work, but you can fix it</p>
+  <p>Logout doesn`t work, but you can fix it, if you want</p>
   <h2>SwayNC</h2>
   <img alt="image" src="https://github.com/Jakubino2013/jakubinoos-dotfiles/blob/main/assets/2025-12-17-175307_hyprshot.png" />
 </div>
