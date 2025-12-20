@@ -21,7 +21,7 @@
     <p>Terminal: kitty</p>
     <p>File manager: Dolphin</p>
     <p>Menus: Rofi</p>
-    <p>Taskbar: Waybar</p>
+    <p>Bar: Waybar</p>
 </div>
 
 <div>
